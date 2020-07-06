@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven 3.5.2
+Built-By: build
+Build-Jdk: 9.0.4
+Build-Id: 2.3.0.1
+Build-Version: JAXB RI 2.3.0.1
+Git-Revision: b05407bdffb3dc82e6d25ee551fc1f632ef51433
+Git-Url: scm:git:git://java.net/jaxb~v2/jaxb-bundles/jaxb-core
+Implementation-Title: JAXB Implementation
+Implementation-Vendor: Oracle
+Implementation-Vendor-Id: com.oracle
+Implementation-Version: 2.3.0.1
+Major-Version: 2.3.0
+Specification-Title: Java Architecture for XML Binding
+Specification-Version: 2.3
+
