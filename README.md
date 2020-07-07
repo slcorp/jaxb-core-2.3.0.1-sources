@@ -4,8 +4,8 @@ This repo contains source code used create the jaxb-core-2.3.0.1.jar, that is in
 
 ## Licensing and Governance
 
-JAXB is licensed under a dual license - CDDL 1.1 and GPL 2.0 with Class-path Exception. 
-That means you can choose which one of the two suits your needs better and use it under those terms.
+JAXB is licensed under a dual license - CDDL 1.1 and GPL 1.1. That means you can choose which one of the two 
+suits your needs better and use it under those terms.
 
 Please refer to the LICENSE.txt in this repo.
 
